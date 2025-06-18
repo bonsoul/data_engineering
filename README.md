@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data_Analysis_Mentorship - Curriculum Breakdown
 
 ## Week 1: Introduction to Data Analysis
@@ -96,3 +97,7 @@ Topics:
 ## Data Sources
 1. http://archive.ics.uci.edu/
 2. https://www.kaggle.com/
+=======
+# data_engineering
+Building Data Pipelines
+>>>>>>> e5986d3d22ff9b6a10e9bd9e0016a85d3c15ea4a
