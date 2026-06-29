@@ -20,13 +20,13 @@ import argparse
 from datetime import datetime
 
 # ── Config ────────────────────────────────────────────────────
-API_KEY  = "YOUR_API_KEY_HERE"          # replace with your key
+API_KEY  = "9e179a20d5b048eb0b205894d889e6b7"          # replace with your key
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 DB_FILE  = "weather.db"
 
 CITIES = [
     "Nairobi", "Mombasa", "Kisumu",
-    "London", "New York", "Tokyo", "Lagos"
+    "London", "New York", "Tokyo", "Kisii"
 ]
 
 # ── Database setup ─────────────────────────────────────────────
